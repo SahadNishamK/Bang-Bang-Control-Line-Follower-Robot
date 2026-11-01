@@ -99,7 +99,7 @@ Example:
 | 8 | 18650 2S battery holder | 1 | Holds the two batteries in series |
 | 9 | ON/OFF switch | 1 | Turns the robot power on or off |
 | 10 | Jumper wires | As required | Connect electronic components |
-| 11 | Caster wheel | 1 or as supplied | Supports the front or rear of the chassis |
+| 11 | Caster wheel | 1 | Supports the front or rear of the chassis |
 | 12 | Nuts and bolts | As required | Secure the components |
 | 13 | IR sensor mount | 1 | Holds the IR sensors in position |
 
