@@ -13,28 +13,6 @@ steer the robot along a predefined track.
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Components Required](#components-required)
-- [Hardware Connections](#hardware-connections)
-- [Power Supply and Safety](#power-supply-and-safety)
-- [Repository Structure](#repository-structure)
-- [Assembly Instructions](#assembly-instructions)
-- [Arduino Setup](#arduino-setup)
-- [Bang-Bang Control Explained](#bang-bang-control-explained)
-- [Limitations](#limitations)
-- [Real-World Applications](#real-world-applications)
-- [Testing and Calibration](#testing-and-calibration)
-- [Troubleshooting](#troubleshooting)
-- [Future Improvements](#future-improvements)
-- [Safety Precautions](#safety-precautions)
-- [License](#license)
-
----
-
 ## Project Overview
 
 A line follower robot is an autonomous mobile robot that follows a
@@ -59,17 +37,6 @@ move forward and make corrective turns to follow the track.
 5. The robot moves forward or corrects its direction.
 6. This process repeats continuously while the robot is operating.
 
-### Project Images
-
-Add your project photographs to the `images/` directory.
-
-Example:
-
-![Assembled Line Follower Robot](images/robot_assembled.jpg)
-
-*Figure: Fully assembled Axyz Edu DIY Line Follower Robot.*
-
----
 
 ## Features
 
@@ -190,16 +157,6 @@ confirming that the power arrangement is compatible.
 driver must share a common ground reference for the control signals
 to work correctly.
 
-### Circuit Diagram
-
-Place your circuit diagram in the `circuit/` directory.
-
-![Line Follower Robot Circuit Diagram](circuit/circuit_diagram.png)
-
-*Figure: Electrical connections between the Arduino UNO, IR sensors,
-L298N motor driver, BO motors, and power supply.*
-
----
 
 ## Power Supply and Safety
 
